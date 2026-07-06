@@ -3,8 +3,11 @@
 A solo VR laser-gun shooting range game built in Unity and deployed to the Meta Quest 3, designed to train a player's accuracy, reaction time, and decision-making across two levels.
 
 ## Demo
+### Level 1
+<img width="1280" height="720" alt="smartshooter_lvl1_demo" src="https://github.com/user-attachments/assets/3792114e-01a2-4ecb-b548-77e58cff7b55" />
 
-DROP_VIDEO_HERE
+### Level 2
+<img width="720" height="720" alt="smartshooter_lvl2_demo" src="https://github.com/user-attachments/assets/934fb173-34e1-48fc-a6f9-5181057f6078" />
 
 ## Gameplay
 
