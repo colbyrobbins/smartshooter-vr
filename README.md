@@ -10,8 +10,8 @@ A solo VR laser-gun shooting range game built in Unity and deployed to the Meta 
 ## Technical highlights
 
 - The standout feature is the **grid data structure behind level two**: target adjacency and visibility state are tracked and updated live as the player hits each target, revealing the local neighborhood instead of the whole grid.
-- Built entirely in Unity (C#) and deployed to the Meta Quest 3.
+- Built entirely in Unity (C#) and deployed to the Meta Quest 3, using Unity's XR Interaction Toolkit to handle VR controller input, hand tracking, and object/weapon interactions.
 
 ## Tech
 
-Unity, C#, Meta Quest 3 (Meta XR SDK).
+Unity, C#, Unity XR Interaction Toolkit, Meta Quest 3 (Meta XR SDK).
