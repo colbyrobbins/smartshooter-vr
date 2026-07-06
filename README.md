@@ -15,4 +15,4 @@ A solo VR laser-gun shooting range game built in Unity and deployed to the Meta 
 
 ## Tech
 
-Unity, C#, Unity XR Interaction Toolkit, Meta Quest.
+Unity, C#, Unity XR Interaction Toolkit, Meta Quest 3.
