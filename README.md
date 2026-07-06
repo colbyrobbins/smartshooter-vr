@@ -21,7 +21,7 @@ A solo VR laser-gun shooting range game built in Unity and deployed to the Meta 
 
 - The standout feature is the **grid data structure behind level two**: target adjacency and visibility state are tracked and updated live as the player hits each target, revealing the local neighborhood instead of the whole grid.
 - Built entirely in Unity (C#) and deployed to the Meta Quest 3, using Unity's XR Interaction Toolkit to handle VR controller input, hand tracking, and object/weapon interactions.
-- Teleportation is used for locomotion to reduce VR sickness.
+- A combination of teleportation, teleport anchors, and smooth locomotion are implemented together to ensure user-friendly mobility and reduce VR sickness.
 
 ## Tech
 
