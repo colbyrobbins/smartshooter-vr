@@ -2,6 +2,10 @@
 
 A solo VR laser-gun shooting range game built in Unity and deployed to the Meta Quest 3, designed to train a player's accuracy, reaction time, and decision-making across two levels.
 
+## Demo
+
+DROP_VIDEO_HERE
+
 ## Gameplay
 
 - **Level One** — targets randomly appear and disappear down range. Hitting enough targets opens the door to level two, building reflexive accuracy under time pressure.
